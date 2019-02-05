@@ -12,4 +12,5 @@ For the one minute paper at the end of every lecture, enter room DM869 at this l
 
 ## Reading/Exercises
 
-* Week 6: Read Chapter 1 (Inference Systems) from Material 2.
+* Week 6: Read Chapter 1 (Inference Systems) from Material 2, Sections 1, 2 and 3 from Material 3.
+* Week 7: Read Section 4 (excluding 4.2.1) from Material 3 and do Exercise 4.3.
