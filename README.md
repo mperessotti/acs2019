@@ -6,9 +6,10 @@ For the one minute paper at the end of every lecture, enter room DM869 at this l
 
 ## Material
 
-1. [Course introduction](https://github.com/mperessotti/acs2019/blob/master/slides/1-introduction.pdf)
+1. [Course introduction](slides/1-introduction.pdf)
 1. [Introduction to Choreographies](https://www.fabriziomontesi.com/teaching/ct-2018/files/chor-notes.pdf) (from DM861 Concurrency Theory)
-1. [Introduction to CCS](https://github.com/mperessotti/acs2019/blob/master/notes/introduction-to-CCS.pdf)
+1. [Introduction to CCS](notes/introduction-to-CCS.pdf)
+1. [Concurrency Workbench (CAAL)](http://caal.cs.aau.dk/)
 
 ## Reading/Exercises
 
