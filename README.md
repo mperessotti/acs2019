@@ -30,7 +30,6 @@ Using CAAL (Material 4):
   - What are the problems the authors want to address?
   - Why are those problems important (impact, theoretical and/or practical needs, etc.)?
   - What are the main contributions of the paper?
-  - What are the main contributions of the paper?
   - Are there alternatives? In which way do they differ from this contribution?
   - Is the paper well-written, i.e., is it clear from the paper how to respond to the previous points?
   - Form and prepare to discuss your opinion on the paper, e.g., do you think the contributions solve the problems? To which extent (completely, what parts)? Why?
