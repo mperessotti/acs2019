@@ -25,7 +25,7 @@ Using CAAL (Material 4):
   1. Implement the processes in Exercise 4.6 from Material 3 and verify which verify which are strong or weak bisimilar.
   1. Model a NOT gate and an AND gate (hint: use channels `inA_0`, `inA_1`, `inB_0`, `inB_1` for the two inputs and `out_0`, `out_1` for output). 
   1. Specify an OR gate, implement one using only processes for AND and NOT (how many you like), then verify that your implementation is behaviourally equivalent to your specification.
-* Week 11: Read [Service-oriented programming with Jolie](https://www.fabriziomontesi.com/files/mgz14.pdf), focussing on answering the questions:
+* Week 11: Read [Service-oriented programming with Jolie](https://www.fabriziomontesi.com/files/mgz14.pdf), focussing on answering the questions below (you can use [the rubric](https://github.com/mperessotti/acs2019/raw/master/paper_review_form.pdf) included in this repository) :
   - What is the general context of the paper? (try to describe both the general field (programming, distributed systems, etc.) and the specific application (functional implementations, consensus algorithms, etc.))
   - What are the problems the authors want to address?
   - Why are those problems important (impact, theoretical and/or practical needs, etc.)?
