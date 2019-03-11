@@ -57,12 +57,12 @@
 
 \newcommand{\lines}[1]{
 \foreach \n in {1,...,#1}{
-  \ifthenelse{ \equal{\n}{1} }{}{\vspace{2em}}
+  \ifthenelse{ \equal{\n}{1} }{}{\vspace{1.5em}}
     \textcolor{gray}{\hrule}
 }
 }
 
-\newcommand{\stdLines}{\lines{5}}
+\newcommand{\stdLines}{\lines{5}\vfil}
 
 \title{Paper Review Rubric 
 \\ 
@@ -70,7 +70,7 @@
 \\
 {\small This document is part of the material for the
 course DM869 at the
-University of Southern Denmark}
+University of Southern Denmark\vspace{-5em}}
 }
 
 \date{}
@@ -78,38 +78,49 @@ University of Southern Denmark}
 
 \maketitle
 
-\subsubsection{What is the general context of the paper? (try to describe both
-the general field (programming, distributed systems, etc.) and the specific
-application (functional implementations, consensus algorithms, etc.))}
+\textbf{What is the general context of the paper?} 
+Try to describe both the general field (programming, distributed systems,
+etc.) and the specific application (functional implementations, consensus
+algorithms, etc.))
 
 \stdLines
 
-\subsubsection{What are the problems the authors want to address?}
+\textbf{What are the problems the authors want to address?}
 
 \stdLines
 
-\subsubsection{Why are those problems important (impact, theoretical and/or
+\textbf{Why are those problems important (impact, theoretical and/or
 practical needs, etc.)?}
 
 \stdLines
 
-\subsubsection{What are the main contributions of the paper?}
+
+\textbf{What are the main contributions of the paper?}
 
 \stdLines
 
-\subsubsection{Are there alternatives? In which way do they differ from this
+\newpage
+
+\textbf{How do the authors substantiate their contributions?} E.g., 
+(running) examples, formalisations, theorems, case studies, benchmarks,
+statistics, \dots
+
+\stdLines
+
+\textbf{Are there alternatives? In which way do they differ from this
 contribution?}
 
 \stdLines
 
-\subsubsection{Is the paper well-written, i.e., is it clear from the paper how
+\textbf{Is the paper well-written, i.e., is it clear from the paper how
 to respond to the previous points?}
 
 \stdLines
 
-\subsubsection{Form and prepare to discuss your opinion on the paper, e.g., do
-you think the contributions solve the problems? To which extent (completely,
-what parts)? Why?}
+\textbf{What is your opinion on the paper?} E.g., do you think the
+contributions solve the problems? To which extent (completely, what parts)?
+Why?
+
 \stdLines
 
 \end{document}
