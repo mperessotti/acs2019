@@ -77,47 +77,49 @@ University of Southern Denmark\vspace{-5em}}
 \begin{document}
 
 \maketitle
+\newcounter{titles}\stepcounter{titles}
+\newcommand{\itemTitle}{\arabic{titles}\stepcounter{titles})\ }
 
-\textbf{What is the general context of the paper?} 
+\textbf{\itemTitle What is the general context of the paper?} 
 Try to describe both the general field (programming, distributed systems,
 etc.) and the specific application (functional implementations, consensus
 algorithms, etc.))
 
 \stdLines
 
-\textbf{What are the problems the authors want to address?}
+\textbf{\itemTitle What are the problems the authors want to address?}
 
 \stdLines
 
-\textbf{Why are those problems important (impact, theoretical and/or
-practical needs, etc.)?}
+\textbf{\itemTitle Why are those problems important (impact, theoretical
+and/or practical needs, etc.)?}
 
 \stdLines
 
 
-\textbf{What are the main contributions of the paper?}
+\textbf{\itemTitle What are the main contributions of the paper?}
 
 \stdLines
 
 \newpage
 
-\textbf{How do the authors substantiate their contributions?} E.g., 
+\textbf{\itemTitle How do the authors substantiate their contributions?} E.g., 
 (running) examples, formalisations, theorems, case studies, benchmarks,
 statistics, \dots
 
 \stdLines
 
-\textbf{Are there alternatives? In which way do they differ from this
+\textbf{\itemTitle Are there alternatives? In which way do they differ from this
 contribution?}
 
 \stdLines
 
-\textbf{Is the paper well-written, i.e., is it clear from the paper how
+\textbf{\itemTitle Is the paper well-written, i.e., is it clear from the paper how
 to respond to the previous points?}
 
 \stdLines
 
-\textbf{What is your opinion on the paper?} E.g., do you think the
+\textbf{\itemTitle What is your opinion on the paper?} E.g., do you think the
 contributions solve the problems? To which extent (completely, what parts)?
 Why?
 
