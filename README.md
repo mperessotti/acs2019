@@ -33,3 +33,5 @@ Using CAAL (Material 4):
   - Are there alternatives? In which way do they differ from this contribution?
   - Is the paper well-written, i.e., is it clear from the paper how to respond to the previous points?
   - Form and prepare to discuss your opinion on the paper, e.g., do you think the contributions solve the problems? To which extent (completely, what parts)? Why?
+* Week 12: Read [Programming services with correlation sets]https://www.fabriziomontesi.com/files/mc11.pdf) and (ChIP: a Choreographic Integration Process)[https://saveriogiallorenzo.com/publications/coopis2018/coopis2018.pdf] and review them, answering the questions in the [paper review
+  rubric](https://github.com/mperessotti/acs2019/raw/master/paper_review_form.pdf) included in this repository.
