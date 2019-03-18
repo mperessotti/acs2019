@@ -34,9 +34,13 @@ Using CAAL (Material 4):
   - Is the paper well-written, i.e., is it clear from the paper how to respond to the previous points?
   - Form and prepare to discuss your opinion on the paper, e.g., do you think the contributions solve the problems? To which extent (completely, what parts)? Why?
 * Week 12: Read [Programming services with correlation sets](https://www.fabriziomontesi.com/files/mc11.pdf) and [ChIP: a Choreographic Integration Process](https://saveriogiallorenzo.com/publications/coopis2018/coopis2018.pdf) and review them, answering the questions in the [paper review rubric](https://github.com/mperessotti/acs2019/raw/master/paper_review_form.pdf) included in this repository.
-* Week 13 Presentation Workshop
-  - Please, [submit your preferences]() for the paper presentation session on Week 14.
-  - We will try to form groups of 2-3 students, based on the expressed preferences
+* Week 13 Presentation Workshop: preparatory assignment to the group presentation on Week 14.
+  - Students will form groups and work togheter at the presentation of one of the following papers:
+    - [Programming services with correlation sets](https://www.fabriziomontesi.com/files/mc11.pdf)
+    - [Choreographies in practice](https://www.fabriziomontesi.com/files/cm16_forte.pdf)
+    - [Service-oriented programming with Jolie](https://www.fabriziomontesi.com/files/mgz14.pdf)
+    - [ChIP: a Choreographic Integration Process](https://saveriogiallorenzo.com/publications/coopis2018/coopis2018.pdf)
+  - Please, [use this form to submit your preferences](https://goo.gl/forms/4XK09WbhNfyJJoth2) for the paper presentation session within Friday 22nd. Students will be notified by Saturday 23rd, using the email inserted in the form.
 * Week 14 Group Presentations + Questions
 * Week 15 
 * Week 16 Easter Holidays
