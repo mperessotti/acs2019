@@ -13,19 +13,19 @@ For the one minute paper at the end of every lecture, enter room DM869 at this l
 
 ## Reading/Exercises
 
-* Week 6: Read Chapter 1 (Inference Systems) from Material 2, Sections 1, 2 and 3 from Material 3.
-* Week 7: Read Section 4 (excluding 4.2.1) from Material 3 and do Exercise 4.3.
-* Week 9: Read Section 5, pages 27-34 from Material 3 and do Exercises 5.1, 5.2, 5.3, and 5.4.
+* **Week 6**: Read Chapter 1 (Inference Systems) from Material 2, Sections 1, 2 and 3 from Material 3.
+* **Week 7**: Read Section 4 (excluding 4.2.1) from Material 3 and do Exercise 4.3.
+* **Week 9**: Read Section 5, pages 27-34 from Material 3 and do Exercises 5.1, 5.2, 5.3, and 5.4.
 Using CAAL (Material 4):
   1. Model a simple counter that can be incremented if less than 3 and decremented if greater than 0. 
   1. Model a 1-bit register (hint: use channels `read_0`, `read_1`, `write_0`, and `write_1`). 
   1. Using your bit registers, implement the counter from the first task.
   1. Check whether the two implementations of the counter are bisimilar.
-* Week 10: Read Section 5 from Material 3. Using CAAL:
+* **Week 10**: Read Section 5 from Material 3. Using CAAL:
   1. Implement the processes in Exercise 4.6 from Material 3 and verify which verify which are strong or weak bisimilar.
   1. Model a NOT gate and an AND gate (hint: use channels `inA_0`, `inA_1`, `inB_0`, `inB_1` for the two inputs and `out_0`, `out_1` for output). 
   1. Specify an OR gate, implement one using only processes for AND and NOT (how many you like), then verify that your implementation is behaviourally equivalent to your specification.
-* Week 11: Read [Service-oriented programming with Jolie](https://www.fabriziomontesi.com/files/mgz14.pdf), focussing on answering the questions below (you can use [the rubric](https://github.com/mperessotti/acs2019/raw/master/paper_review_form.pdf) included in this repository) :
+* **Week 11**: Read [Service-oriented programming with Jolie](https://www.fabriziomontesi.com/files/mgz14.pdf), focussing on answering the questions below (you can use [the rubric](https://github.com/mperessotti/acs2019/raw/master/paper_review_form.pdf) included in this repository) :
   - What is the general context of the paper? (try to describe both the general field (programming, distributed systems, etc.) and the specific application (functional implementations, consensus algorithms, etc.))
   - What are the problems the authors want to address?
   - Why are those problems important (impact, theoretical and/or practical needs, etc.)?
@@ -33,20 +33,20 @@ Using CAAL (Material 4):
   - Are there alternatives? In which way do they differ from this contribution?
   - Is the paper well-written, i.e., is it clear from the paper how to respond to the previous points?
   - Form and prepare to discuss your opinion on the paper, e.g., do you think the contributions solve the problems? To which extent (completely, what parts)? Why?
-* Week 12: Read [Programming services with correlation sets](https://www.fabriziomontesi.com/files/mc11.pdf) and [ChIP: a Choreographic Integration Process](https://saveriogiallorenzo.com/publications/coopis2018/coopis2018.pdf) and review them, answering the questions in the [paper review rubric](https://github.com/mperessotti/acs2019/raw/master/paper_review_form.pdf) included in this repository.
-* Week 13 Presentation Workshop: preparatory assignment to the group presentation on Week 14.
+* **Week 12**: Read [Programming services with correlation sets](https://www.fabriziomontesi.com/files/mc11.pdf) and [ChIP: a Choreographic Integration Process](https://saveriogiallorenzo.com/publications/coopis2018/coopis2018.pdf) and review them, answering the questions in the [paper review rubric](https://github.com/mperessotti/acs2019/raw/master/paper_review_form.pdf) included in this repository.
+* **Week 13** *Presentation Workshop*: preparatory assignment to the group presentation on Week 14.
   - Students will form groups and work togheter at the presentation of one of the following papers:
     - [Programming services with correlation sets](https://www.fabriziomontesi.com/files/mc11.pdf)
     - [Choreographies in practice](https://www.fabriziomontesi.com/files/cm16_forte.pdf)
     - [Service-oriented programming with Jolie](https://www.fabriziomontesi.com/files/mgz14.pdf)
     - [ChIP: a Choreographic Integration Process](https://saveriogiallorenzo.com/publications/coopis2018/coopis2018.pdf)
   - Please, [use this form to submit your preferences](https://goo.gl/forms/4XK09WbhNfyJJoth2) for the paper presentation session within Friday 22nd. Students will be notified by Saturday 23rd, using the email inserted in the form.
-* Week 14 Group Presentations + Questions
-* Week 15 
-* Week 16 Easter Holidays
-* Week 17 Easter Holidays
-* Week 18 TBD
-* Week 19 TBD
-* Week 20 TBD
-* Week 21 TBD
-* Week 22 TBD
+* **Week 14** Group Presentations + Questions
+* **Week 15** 
+* **Week 16** Easter Holidays
+* **Week 17** Easter Holidays
+* **Week 18** TBD
+* **Week 19** TBD
+* **Week 20** TBD
+* **Week 21** TBD
+* **Week 22** TBD
