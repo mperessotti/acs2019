@@ -39,7 +39,6 @@ Using CAAL (Material 4):
     - [Programming services with correlation sets](https://www.fabriziomontesi.com/files/mc11.pdf)
     - [Choreographies in practice](https://www.fabriziomontesi.com/files/cm16_forte.pdf)
     - [Service-oriented programming with Jolie](https://www.fabriziomontesi.com/files/mgz14.pdf)
-    - [ChIP: a Choreographic Integration Process](https://saveriogiallorenzo.com/publications/coopis2018/coopis2018.pdf)
   - Please, [use this form to submit your preferences](https://goo.gl/forms/4XK09WbhNfyJJoth2) for the paper presentation session within Friday 22nd. Students will be notified by Saturday 23rd, using the email inserted in the form.
   - Slides on [how to give a presentation](https://www.fabriziomontesi.com/teaching/mp-2016/files/howto_presentations.pdf)
   - [Rubric on the evaluation of presentations](https://www.fabriziomontesi.com/teaching/mp-2016/files/presentations_rubric.pdf); *hint*: use it to review your presentations and spot possible missing points.
