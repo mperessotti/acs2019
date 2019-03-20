@@ -46,7 +46,27 @@ Using CAAL (Material 4):
 * **Week 15** 
 * **Week 16** Easter Holidays
 * **Week 17** Easter Holidays
-* **Week 18** TBD
+* **Week 18** Submit the group formation and the list of commented references for the exam report.
+  - The exam report surveys a research topic by selecting a set of related papers (from 2 to 6), reporting their relevant information, and comparing them in a structured way.
+  - When proposing the set of references, the students shall justify them, commenting why a given reference shall be further investigated in the report.
+  - The selected topic and the list of references are agreed upon with the teachers of the course.
+  - Research topics are free (as long as related to the context of the course). The below list contains possible research topics and initial references that students can use a starting point to find further references for their work (i.e., they can be omitted.
+  - *Microservices* (design, development, and/or deployment)
+    - [Microservices: yesterday, today, and tomorrow](https://hal.inria.fr/hal-01631455/file/msytt.pdf)
+    - [Microservices tenets](https://link.springer.com/article/10.1007/s00450-016-0337-0)
+  - *Serverless computing*
+    - [Cloud Programming Simplified: A Berkeley View on Serverless Computing](https://arxiv.org/pdf/1902.03383.pdf)
+    - [No more, no less - a formal model for serveless computing](https://arxiv.org/pdf/1903.07962.pdf)
+  - *Choreographic programming*
+    - [Procedural Choreographic Programming](https://www.fabriziomontesi.com/files/cm17_forte.pdf)
+    - [Choreographies for Microservices](https://www.conf-micro.services/2017/papers/Giallorenzo-Lanese.pdf)
+  - *Type systems for Concurrency*
+    - [Propositions as Sessions](https://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-sessions/propositions-as-sessions.pdf)
+    - [Foundations of Session Types and Behavioural Contracts](http://di.fc.ul.pt/~vv/papers/huttel.lanese.etal_fondations-session-types.pdf)
+    - [Better Late Than Never](http://delivery.acm.org/10.1145/3300000/3290337/popl19main-p274-p.pdf)
+  - *Behavioural Equivalences*
+    - [The Linear Time - Branching Time Spectrum I](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.9596&rep=rep1&type=pdf)
+    - [Towards a Unified Approach to Encodability and Separation Results from Process Calculi](http://wwwusers.di.uniroma1.it/~gorla/papers/G-IC10.pdf)
 * **Week 19** TBD
 * **Week 20** TBD
 * **Week 21** TBD
