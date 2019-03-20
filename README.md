@@ -51,20 +51,20 @@ Using CAAL (Material 4):
   - When proposing the set of references, the students shall briefly (a couple of paragraphs) justify them, commenting why a given reference shall be further investigated in the report.
   - The selected topic and the list of references are agreed upon with the teachers of the course.
   - Research topics are free (as long as related to the context of the course). The below list contains possible research topics and initial references that students can use as starting point to build their list of references (which does not necessarily contain those initial references).
-  - *Microservices* (design, development, and/or deployment)
+  1. *Microservices* (design, development, and/or deployment)
     - [Microservices: yesterday, today, and tomorrow](https://hal.inria.fr/hal-01631455/file/msytt.pdf)
     - [Microservices tenets](https://link.springer.com/article/10.1007/s00450-016-0337-0)
-  - *Serverless computing*
+  1. *Serverless computing*
     - [Cloud Programming Simplified: A Berkeley View on Serverless Computing](https://arxiv.org/pdf/1902.03383.pdf)
     - [No more, no less - a formal model for serveless computing](https://arxiv.org/pdf/1903.07962.pdf)
-  - *Choreographic programming*
+  1. *Choreographic programming*
     - [Procedural Choreographic Programming](https://www.fabriziomontesi.com/files/cm17_forte.pdf)
     - [Choreographies for Microservices](https://www.conf-micro.services/2017/papers/Giallorenzo-Lanese.pdf)
-  - *Type systems for Concurrency*
+  1. *Type systems for Concurrency*
     - [Propositions as Sessions](https://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-sessions/propositions-as-sessions.pdf)
     - [Foundations of Session Types and Behavioural Contracts](http://di.fc.ul.pt/~vv/papers/huttel.lanese.etal_fondations-session-types.pdf)
     - [Better Late Than Never](http://delivery.acm.org/10.1145/3300000/3290337/popl19main-p274-p.pdf)
-  - *Behavioural Equivalences*
+  1. *Behavioural Equivalences*
     - [The Linear Time - Branching Time Spectrum I](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.9596&rep=rep1&type=pdf)
     - [Towards a Unified Approach to Encodability and Separation Results from Process Calculi](http://wwwusers.di.uniroma1.it/~gorla/papers/G-IC10.pdf)
 * **Week 19** TBD
