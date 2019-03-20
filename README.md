@@ -50,7 +50,7 @@ Using CAAL (Material 4):
   - The exam report surveys a research topic by selecting a set of related papers (from 2 to 6), reporting their relevant information, and comparing them in a structured way.
   - When proposing the set of references, the students shall briefly (a couple of paragraphs) justify them, commenting why a given reference shall be further investigated in the report.
   - The selected topic and the list of references are agreed upon with the teachers of the course.
-  - Research topics are free (as long as related to the context of the course). The below list contains possible research topics and initial references that students can use a starting point to find further references for their work (i.e., they can be omitted.
+  - Research topics are free (as long as related to the context of the course). The below list contains possible research topics and initial references that students can use as starting point to build their list of references (which does not necessarily contain those initial references).
   - *Microservices* (design, development, and/or deployment)
     - [Microservices: yesterday, today, and tomorrow](https://hal.inria.fr/hal-01631455/file/msytt.pdf)
     - [Microservices tenets](https://link.springer.com/article/10.1007/s00450-016-0337-0)
