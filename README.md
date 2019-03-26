@@ -2,7 +2,11 @@
 
 See the [course description](http://odinlister.sdu.dk/fagbesk/internkode/DM869/en) on the SDU website.
 
-For the one minute paper at the end of every lecture, enter room DM869 at this link: https://www.socrative.com/.
+For the "one minute paper" at the end of every lecture, go to https://www.socrative.com/, login as student, and access room "DM869".
+
+## Mid-term course evaluation
+
+The mid-term course evaluation is done electronically using Socrative (like the "one minute paper"); the questionnaire is anonymous. Visit https://www.socrative.com/, login as student, and access room "DM869". The questionnaire will close on the 3rd of April.
 
 ## Material
 
