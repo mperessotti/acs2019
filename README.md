@@ -47,7 +47,8 @@ Using CAAL (Material 4):
   - Slides on [how to give a presentation](https://www.fabriziomontesi.com/teaching/mp-2016/files/howto_presentations.pdf)
   - [Rubric on the evaluation of presentations](https://www.fabriziomontesi.com/teaching/mp-2016/files/presentations_rubric.pdf); *hint*: use it to review your presentations and spot possible missing points.
 * **Week 14** Group Presentations + Questions
-* **Week 15** Try to implement the Circuit Breaker pattern in Jolie, following the definition given in [From the decorator pattern to circuit breakers in microservices](https://www.fabriziomontesi.com/files/mw18.pdf). First read the paper and understand the reasoning behind the definition the authors give. Then try to implement and test a system where you can observe the circuit breaker tripping (limiting/forbidding connections) and closing (accepting all connections).
+* **Week 15** Try to implement the Circuit Breaker pattern in Jolie, following the definition given in [From the decorator pattern to circuit breakers in microservices](https://www.fabriziomontesi.com/files/mw18.pdf) (additional reference [Circuit Breakers, Discovery, and API Gateways in
+Microservices](https://arxiv.org/pdf/1609.05830.pdf). First read the paper and understand the reasoning behind the definition the authors give. Then try to implement and test a system where you can observe the circuit breaker tripping (limiting/forbidding connections) and closing (accepting all connections).
 * **Week 16** Easter Holidays
 * **Week 17** Easter Holidays
 * **Week 18** Submit the group formation and the list of commented references for the exam report.
