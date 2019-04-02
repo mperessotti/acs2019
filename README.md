@@ -2,7 +2,11 @@
 
 See the [course description](http://odinlister.sdu.dk/fagbesk/internkode/DM869/en) on the SDU website.
 
-For the one minute paper at the end of every lecture, enter room DM869 at this link: https://www.socrative.com/.
+For the "one minute paper" at the end of every lecture, go to https://www.socrative.com/, login as student, and access room "DM869".
+
+## Mid-term course evaluation
+
+The mid-term course evaluation is done electronically using Socrative (like the "one minute paper"); the questionnaire is anonymous. Visit https://www.socrative.com/, login as student, and access room "DM869". The questionnaire will close on the 3rd of April.
 
 ## Material
 
@@ -43,7 +47,8 @@ Using CAAL (Material 4):
   - Slides on [how to give a presentation](https://www.fabriziomontesi.com/teaching/mp-2016/files/howto_presentations.pdf)
   - [Rubric on the evaluation of presentations](https://www.fabriziomontesi.com/teaching/mp-2016/files/presentations_rubric.pdf); *hint*: use it to review your presentations and spot possible missing points.
 * **Week 14** Group Presentations + Questions
-* **Week 15** 
+* **Week 15** Try to implement the Circuit Breaker pattern in Jolie, following the definition given in [From the decorator pattern to circuit breakers in microservices](https://www.fabriziomontesi.com/files/mw18.pdf) (additional reference [Circuit Breakers, Discovery, and API Gateways in
+Microservices](https://arxiv.org/pdf/1609.05830.pdf)). First read the paper and understand the reasoning behind the definition the authors give. Then try to implement and test a system where you can observe the circuit breaker tripping (limiting/forbidding connections) and closing (accepting all connections).
 * **Week 16** Easter Holidays
 * **Week 17** Easter Holidays
 * **Week 18** Submit the group formation and the list of commented references for the exam report.
@@ -51,9 +56,10 @@ Using CAAL (Material 4):
   - When proposing the set of references, the students shall briefly (a couple of paragraphs) justify them, commenting why a given reference shall be further investigated in the report.
   - The selected topic and the list of references are agreed upon with the teachers of the course.
   - Research topics are free (as long as related to the context of the course). The below list contains possible research topics and initial references that students can use as starting point to build their list of references (which does not necessarily contain those initial references).
+
   1. *Microservices* (design, development, and/or deployment)
-    - [Microservices: yesterday, today, and tomorrow](https://hal.inria.fr/hal-01631455/file/msytt.pdf)
-    - [Microservices tenets](https://link.springer.com/article/10.1007/s00450-016-0337-0)
+      - [Microservices: yesterday, today, and tomorrow](https://hal.inria.fr/hal-01631455/file/msytt.pdf)
+      - [Microservices tenets](https://link.springer.com/article/10.1007/s00450-016-0337-0)
   1. *Serverless computing*
       - [Cloud Programming Simplified: A Berkeley View on Serverless Computing](https://arxiv.org/pdf/1902.03383.pdf)
       - [No more, no less - a formal model for serveless computing](https://arxiv.org/pdf/1903.07962.pdf)
