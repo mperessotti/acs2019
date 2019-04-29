@@ -70,7 +70,7 @@ Microservices](https://arxiv.org/pdf/1609.05830.pdf)). First read the paper and 
   1. *Type systems for Concurrency*
       - [Propositions as Sessions](https://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-sessions/propositions-as-sessions.pdf)
       - [Foundations of Session Types and Behavioural Contracts](http://di.fc.ul.pt/~vv/papers/huttel.lanese.etal_fondations-session-types.pdf)
-      - [Better Late Than Never](http://delivery.acm.org/10.1145/3300000/3290337/popl19main-p274-p.pdf)
+      - [Better Late Than Never](https://dl.acm.org/ft_gateway.cfm?id=3290337)
   1. *Behavioural Equivalences*
       - [The Linear Time - Branching Time Spectrum I](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.9596&rep=rep1&type=pdf)
       - [Towards a Unified Approach to Encodability and Separation Results from Process Calculi](http://wwwusers.di.uniroma1.it/~gorla/papers/G-IC10.pdf)
