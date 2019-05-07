@@ -22,7 +22,7 @@ Quick facts:
 - redacted in English;
 - delivered in PDF format;
 - single column, font size 12, line space 1;
-- between 10 and 20 pages;
+- between 10 and 20 pages.
 
 ## Reading/Exercises
 
