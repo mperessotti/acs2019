@@ -16,6 +16,14 @@ For the "one minute paper" at the end of every lecture, go to https://www.socrat
 1. [Introduction to CCS](material/introduction-to-CCS.pdf)
 1. [Concurrency Workbench (CAAL)](http://caal.cs.aau.dk/)
 
+## Report
+
+Quick facts:
+- redacted in English;
+- delivered in PDF format;
+- single column, font size 12, line space 1;
+- between 10 and 20 pages;
+
 ## Reading/Exercises
 
 * **Week 6**: Read Chapter 1 (Inference Systems) from Material 2, Sections 1, 2 and 3 from Material 3.
