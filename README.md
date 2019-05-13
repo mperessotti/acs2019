@@ -83,6 +83,6 @@ Microservices](https://arxiv.org/pdf/1609.05830.pdf)). First read the paper and 
       - [The Linear Time - Branching Time Spectrum I](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.9596&rep=rep1&type=pdf)
       - [Towards a Unified Approach to Encodability and Separation Results from Process Calculi](http://wwwusers.di.uniroma1.it/~gorla/papers/G-IC10.pdf)
 * **Week 19** Work on reports
-* **Week 20** TBD
-* **Week 21** TBD
-* **Week 22** TBD
+* **Week 20** Read [Propositions as types](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf) review it, answering the questions in the [paper review rubric](material/paper_review_form.pdf) included in this repository.
+* **Week 21** Work on reports
+* **Week 22** Work on reports
