@@ -84,5 +84,5 @@ Microservices](https://arxiv.org/pdf/1609.05830.pdf)). First read the paper and 
       - [Towards a Unified Approach to Encodability and Separation Results from Process Calculi](http://wwwusers.di.uniroma1.it/~gorla/papers/G-IC10.pdf)
 * **Week 19** Work on reports
 * **Week 20** Read [Propositions as types](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf) review it, answering the questions in the [paper review rubric](material/paper_review_form.pdf) included in this repository.
-* **Week 21** Work on reports
+* **Week 21** Read [Propositions as sessions](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-sessions/propositions-as-sessions.pdf). Work on reports
 * **Week 22** Work on reports
