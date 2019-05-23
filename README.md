@@ -7,7 +7,9 @@ For the "one minute paper" at the end of every lecture, go to https://www.socrat
 
 ## Course evaluation
 
-[Mid-term course evaluation](mid-course-evaluation.pdf)
+The final course evaluation will be done on May the 28th. 
+
+Results of the [Mid-term course evaluation](mid-course-evaluation.pdf)
 
 ## Material
 
@@ -16,13 +18,12 @@ For the "one minute paper" at the end of every lecture, go to https://www.socrat
 1. [Introduction to CCS](material/introduction-to-CCS.pdf)
 1. [Concurrency Workbench (CAAL)](http://caal.cs.aau.dk/)
 
-## Report
+## Report for the final assignment
 
-Quick facts:
-- redacted in English;
-- delivered in PDF format;
-- single column, font size 12, line space 1;
-- between 10 and 20 pages.
+The report for the final assignment:
+* has to be written in English;
+* with a maximum of 20 pages in single column, font size 12, line space 1;
+* delivered as PDF file to both Marco (peressotti [at] imada.sdu.dk) and Saverio (saverio [at] imada.sdu.dk)) no later than the 8th of June (23:59 CEST).
 
 ## Reading/Exercises
 
