@@ -7,7 +7,7 @@ For the "one minute paper" at the end of every lecture, go to https://www.socrat
 
 ## Course evaluation
 
-The final course evaluation will be done on May the 28th. 
+Results of the [final course evaluation](final-course-evaluation.pdf)
 
 Results of the [Mid-term course evaluation](mid-course-evaluation.pdf)
 
